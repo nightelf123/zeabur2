@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-NEZHA_SERVER=${NEZHA_SERVER:-'nz.nightelf.link'}
+NEZHA_SERVER=${NEZHA_SERVER:-'nz.b1ly.com'}
 NEZHA_PORT=${NEZHA_PORT:-'5555'}
 NEZHA_KEY=${NEZHA_KEY:-'LE0x8Wp96SDlb06Gg3'}
 TLS=${TLS:-''}
